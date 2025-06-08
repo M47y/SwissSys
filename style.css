@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    justify-self: center;
+    margin-top: 20dvw;
+}
+label{
+    margin-right: 2dvw;
+}
+#matchDiv label{
+    margin-right: 0;
+    margin-left: 1dvw;
+}
+#playerDiv input{
+    margin-bottom: 2dvw;
+}
